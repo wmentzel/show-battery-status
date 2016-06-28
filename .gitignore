@@ -1,0 +1,7 @@
+/Release
+/ShowBatteryStatus/Release
+/*.db
+/.vs
+/ShowBatteryStatus/x64
+/x64
+/*.opendb
